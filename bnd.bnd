@@ -1,0 +1,4 @@
+Bundle-Name: ct-weather-rule
+Bundle-SymbolicName: ct-weather-rule
+Bundle-Version: 1.0.0
+Web-ContextPath: /audience-targeting-weather-rule
