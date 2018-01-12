@@ -5,7 +5,7 @@ An example OSGI module that demonstrates how to create a custom Liferay Audience
 ## Dependencies
 
 - [Liferay DXP 7.0+](http://www.liferay.com)
-- [OpenWeather] (https://openweathermap.org/) API key
+- [OpenWeather](https://openweathermap.org) API key
 
 ## Instructions
 
