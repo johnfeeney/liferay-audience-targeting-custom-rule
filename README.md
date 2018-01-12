@@ -9,7 +9,7 @@ An example OSGI module that demonstrates how to create a custom Liferay Audience
 
 ## Instructions
 
-Go to openweather.org, sign up to get your API key and place it in portlet.properties.
+Go to openweathermap.org, sign up to get your API key and place it in portlet.properties.
 
 Onece deployed, this module creates a new custom rule under the category "Sample". The rule allows an administrator to select the desired weather condition.
 ![Alt text](img/custom_rule.png?raw=true "Liferay Audience Targeting Custom Rule")
